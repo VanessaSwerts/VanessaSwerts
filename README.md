@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Vanessa Swerts! 
+<p><em>Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a></br> Mobile Developer at <a href="https://aurem.com.br/">Aurem</a> 
+</em></p>
 
-<!--
-**VanessaSwerts/VanessaSwerts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently learning: 
+- <l><em> Flutter </em></l> 
+- <l><em> JavaScript </em></l> 
+- <l><em> NodeJS </em></l> 
+- <l><em> ReactJS </em></l> 
+- <l><em> React Native </em></l> 
 
-Here are some ideas to get you started:
+![Vanessa's Github stats](https://github-readme-stats.vercel.app/api?username=VanessaSwerts&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me around the web: 
+
+[![Linkedin: VanessaSwerts](https://img.shields.io/badge/-vanessaswerts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vanessaswerts/)
+[![GitHub Vanessa]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/VanessaSwerts)
