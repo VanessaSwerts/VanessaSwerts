@@ -5,9 +5,7 @@
 ### I’m currently learning: 
 - <l><em> Flutter </em></l> 
 - <l><em> JavaScript </em></l> 
-- <l><em> NodeJS </em></l> 
-- <l><em> ReactJS </em></l> 
-- <l><em> React Native </em></l> 
+- <l><em> Angular </em></l> 
 
 ![Vanessa's Github stats](https://github-readme-stats.vercel.app/api?username=VanessaSwerts&show_icons=true)
 
