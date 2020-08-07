@@ -7,8 +7,6 @@
 - <l><em> JavaScript </em></l> 
 - <l><em> Angular </em></l> 
 
-![Vanessa's Github stats](https://github-readme-stats.vercel.app/api?username=VanessaSwerts&show_icons=true)
-
 ### Find me around the web: 
 
 [![Linkedin: VanessaSwerts](https://img.shields.io/badge/-vanessaswerts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vanessaswerts/)
