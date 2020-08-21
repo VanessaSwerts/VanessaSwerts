@@ -5,7 +5,7 @@
 ### I’m currently learning: 
 - <l><em> Flutter </em></l> 
 - <l><em> JavaScript </em></l> 
-- <l><em> Angular </em></l> 
+- <l><em> React </em></l> 
 
 ### Find me around the web: 
 
