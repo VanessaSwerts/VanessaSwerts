@@ -1,10 +1,10 @@
 ## Hi, I'm Vanessa Swerts! 
-<p><em>Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a></br> Mobile Developer at <a href="https://aurem.com.br/">Aurem</a> 
+<p><em>Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a></br> Front-end Developer at <a href="https://aurem.com.br/">Aurem</a> 
 </em></p>
 
 ### I’m currently learning: 
 - <l><em> Flutter </em></l> 
-- <l><em> JavaScript </em></l> 
+- <l><em> JavaScript, HTML, CSS </em></l> 
 - <l><em> React </em></l> 
 
 ### Find me around the web: 
