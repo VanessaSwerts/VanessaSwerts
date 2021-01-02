@@ -51,5 +51,6 @@
 
 ### Where to find me:
 
-[![Linkedin: VanessaSwerts](https://img.shields.io/badge/-vanessaswerts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vanessaswerts/)
+[![Linkedin: VanessaSwerts](https://img.shields.io/badge/-vanessaswerts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessaswerts/)](https://www.linkedin.com/in/vanessaswerts/)
+[![Gmail Badge](https://img.shields.io/badge/-vanessaswerts96@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessaswerts9@gmail.com)](mailto:vanessaswerts9@gmail.com)
 [![GitHub Vanessa]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/VanessaSwerts)
