@@ -1,4 +1,7 @@
-## Hi, I'm Vanessa Swerts! 
+
+<h2>Hi, I'm Vanessa Swerts! </h2>
+
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
 <h3> :woman: &nbsp;About Me </h3>
 
@@ -7,23 +10,23 @@
 - 💼 &nbsp; Working as a Front-end Developer at <a href="https://aurem.com.br/">Aurem</a>
 - 🌱 &nbsp; Learning more about React, Tests and TypeScript.
 
-## My Development Stack
+<h3> :rocket: &nbsp;My Development Stack </h3>
 
 **Application and Data**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilities**
-  
+
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -36,7 +39,7 @@
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Business Tools**
-  
+
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
@@ -51,7 +54,7 @@
 
 <br/>
 
-### Where to find me:
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: VanessaSwerts](https://img.shields.io/badge/-vanessaswerts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessaswerts/)](https://www.linkedin.com/in/vanessaswerts/)
 [![Gmail Badge](https://img.shields.io/badge/-vanessaswerts96@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessaswerts9@gmail.com)](mailto:vanessaswerts9@gmail.com)
