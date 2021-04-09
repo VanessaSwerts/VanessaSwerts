@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
 - 💼 &nbsp; Working as a Front-end Developer at <a href="https://aurem.com.br/">Aurem</a>
-- 🌱 &nbsp; Learning more about React, Tests, TypeScript and Electron.
+- 🌱 &nbsp; Learning more about backend technologies.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
