@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
-- 💼 &nbsp; Working as a Full Stack Developer at <a href="https://aurem.com.br/">Aurem</a>
+- 💼 &nbsp; Working as a System Technician I at <a href="https://inatel.br/home/">Inatel</a>.
 - 🌱 &nbsp; Learning more about backend technologies.
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
