@@ -7,8 +7,10 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
-- 💼 &nbsp; Working as a System Technician I at <a href="https://inatel.br/home/">Inatel</a>.
+- 💼 &nbsp; Working as a System Analyst at <a href="https://inatel.br/home/">Inatel</a> | <a href="https://www.ericsson.com/en">Ericsson</a>.
 - 🌱 &nbsp; Learning more about backend technologies.
+
+---
 
 <h3> :rocket: &nbsp;My Development Stack </h3>
 
@@ -37,6 +39,7 @@
   ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![Junit](https://img.shields.io/badge/-Junit-333333?style=flat&logo=junit)
   ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
+  ![Karate](https://img.shields.io/badge/-Karate-333333?style=flat&logo=karate)
   
 **DevOps**
 
@@ -46,16 +49,16 @@
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-<br/>
+---
+### 📈 Github Statistics
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>
+![Vanessa Swerts github stats](https://github-readme-stats.vercel.app/api?username=vanessaswerts&theme=dracula&show_icons=true)
 
-<br/>
-
+ ---
+ 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: VanessaSwerts](https://img.shields.io/badge/-vanessaswerts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessaswerts/)](https://www.linkedin.com/in/vanessaswerts/)
+[![Instagram: VanessaSwerts](https://img.shields.io/badge/-@vanessaswerts-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/vanessaswerts/)](https://instagram.com/vanessaswerts/)
 [![Gmail Badge](https://img.shields.io/badge/-vanessaswerts96@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessaswerts9@gmail.com)](mailto:vanessaswerts9@gmail.com)
 [![GitHub Vanessa]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/VanessaSwerts)
