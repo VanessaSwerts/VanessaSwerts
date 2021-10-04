@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
-- 💼 &nbsp; Working as a System Analyst at <a href="https://inatel.br/home/">Inatel</a> | <a href="https://www.ericsson.com/en">Ericsson</a>.
+- 💼 &nbsp; Working as a System Analyst at <a href="https://inatel.br/home/">Inatel</a>.
 - 🌱 &nbsp; Learning more about backend technologies.
 
 ---
