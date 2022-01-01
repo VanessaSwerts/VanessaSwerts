@@ -6,7 +6,7 @@
 <h3> :woman: &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
+- 🎓 &nbsp; Graduated in Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
 - 💼 &nbsp; Working as a System Analyst at <a href="https://inatel.br/home/">Inatel</a>.
 - 🌱 &nbsp; Learning more about backend technologies.
 
