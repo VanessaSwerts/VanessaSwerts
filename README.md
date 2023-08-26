@@ -7,8 +7,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated in Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
-- 💼 &nbsp; Working as a System Specialist II at <a href="https://inatel.br/home/">Inatel</a>.
-- 🌱 &nbsp; Learning more about backend and tests technologies.
+- 💼 &nbsp; Working as a System Specialist III at <a href="https://inatel.br/home/">Inatel</a>.
+- 🌱 &nbsp; Learning more about DevOps and tests technologies.
 ---
 ### 📈 Github Statistics
 
